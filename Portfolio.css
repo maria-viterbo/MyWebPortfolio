@@ -1,0 +1,53 @@
+.me {
+    height:500px;
+    border-radius: 35px;
+    opacity:0.9;
+}
+
+.mecover {
+    min-height: 600px;
+}
+
+#logo {
+    border-radius:100px;
+    height: 110px;
+}
+
+#name a {
+    font-family: "LinoTypeZapfino Three";
+    color: white;
+    font-size: 25px;
+    padding-left: 15px;
+    text-decoration: none;
+}
+
+#name a:hover {
+    color:antiquewhite;
+    font-weight: bold;
+}
+
+.container a {
+    color:white;
+    text-decoration: overline underline;
+    font-size: 17px;
+    font-family: "helvetica";
+}
+
+.container a:hover {
+    color:antiquewhite;
+    font-weight: bold;
+}
+
+#twit img:hover {
+    opacity: 0.5;
+}
+
+#inst img:hover {
+    opacity: 0.5;
+}
+
+#fb img:hover {
+    opacity: 0.5;
+}
+
+
